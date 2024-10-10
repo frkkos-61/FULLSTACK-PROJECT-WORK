@@ -8,5 +8,6 @@
  
 <h3>Yukarıdaki kütüphanler kullanılarak, FullStack bir proje geliştirilmiştir.Ayrıca bakend tarafında da Nodejs Javascript ve test amaçlı Postman kullanılmıştır.</h3>
 
+<h5>Gif Dosyası eklendi</h5>
 
-# FULLSTACK-PROJECT-WORK
+![](tanıtım.gif)
